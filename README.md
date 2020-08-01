@@ -21,7 +21,7 @@ In the `index-html` you will find the HTML structure for this project and in the
 
 ## Sharing your solution
 
-If you want to see my project click the following link ![Click here!](https://frontendmentor-fylo-data-storage.vercel.app/). The project was deploy with ![Vercel](https://vercel.com/)
+If you want to see my project click the following link [Click here](https://frontendmentor-fylo-data-storage.vercel.app/). The project was deploy with [Vercel](https://vercel.com/)
 
 ## My results
 *This is my design for desktop*
