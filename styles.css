@@ -47,7 +47,7 @@ body {
   font-family: var(--font);
   background: var(--dark-blue);
   width: 250px;
-  height: 200px;
+  height: 164px;
   border-radius: 10px;
   border-top-right-radius: 90px 90px;
   color: white;
@@ -111,6 +111,17 @@ body {
 
 #last {
   margin-left: 315px;
+}
+
+.dot {
+  height: 12px;
+  width: 12px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 4px;
+  left: 312px;
 }
 
 .bubble {
